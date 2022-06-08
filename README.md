@@ -1,5 +1,5 @@
 # TFE4940-Masters-Thesis
-All code used in my Master's Thesis
+All code borrowed, developed and used for my Master's Thesis
 
 "Deep Learning for Polyp Detection from Synthetic Narrow-Band Imaging"
 
